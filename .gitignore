@@ -15,3 +15,25 @@ config.local.*
 .DS_Store
 .idea/
 .vscode/
+
+# Additional credential containers and local backups
+*.pfx
+*.p8
+*.jks
+*.keystore
+credentials
+credentials.*
+secrets
+secrets.*
+wallet.json
+wallets.json
+wallet*.keystore
+*private_key*
+*secret_key*
+mnemonic.*
+seed_phrase.*
+*.bak
+*.backup
+*.orig
+*.tmp
+*.temp
