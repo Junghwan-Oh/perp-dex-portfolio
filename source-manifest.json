@@ -1,0 +1,20 @@
+{
+  "source_repository": "https://github.com/Junghwan-Oh/2dex",
+  "source_commit": "8d8afa3debfd772e2eb8d843ff9c4e71e0a9eca2",
+  "extractions": [
+    {
+      "path": "perpdex/strategies/2dex/hedge_mode_2dex.py",
+      "sha256": "99bc66274b98c165e2e1d0ff042824da4018befd9618dfb0579993c3ad46b9f6",
+      "symbol": "HedgeBot2DEX.executeHedgeCycle",
+      "lines": [
+        943,
+        1097
+      ]
+    },
+    {
+      "path": "perpdex/strategies/2dex/exchanges/base.py",
+      "sha256": "65f13b3930ae3eaae9089632df79fa3aafd30a7453ec2ab521519c9273cfffb5",
+      "symbol": "OrderResult"
+    }
+  ]
+}
